@@ -1,0 +1,33 @@
+
+
+    
+body {
+    
+    color: white;           
+    display: flex;           
+    justify-content: center; 
+    align-items: center;     
+    height: 100vh;          
+    margin: 0;    
+   background-image: url(1439578632_104173.172231-Desligar-computador-a-noite.webp);
+   background-repeat: no-repeat;
+   background-size: cover;
+   
+    
+}
+
+
+h1 {
+    font-size: 3em;         
+    text-align: center;   
+    width: 500px; 
+    height: auto; 
+    
+}
+            
+.link  {
+    color: white;
+    font-size: 50px;
+}
+
+  
